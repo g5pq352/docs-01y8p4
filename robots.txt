@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-o4k4pi.planetjp.online/sitemap.xml
